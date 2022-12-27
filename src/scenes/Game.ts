@@ -20,5 +20,6 @@ export default class Demo extends Phaser.Scene {
       yoyo: true,
       repeat: -1
     });
+
   }
 }

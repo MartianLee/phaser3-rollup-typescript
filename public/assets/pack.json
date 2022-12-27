@@ -1,0 +1,17 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "bitmapFont",
+        "key": "font",
+        "textureURL": "./assets/font/superMarioLand.png",
+        "fontDataURL": "./assets/font/superMarioLand.fnt"
+      },
+      {
+        "type": "image",
+        "key": "tiles",
+        "url": "./assets/tiles/tiles.png"
+      }
+    ]
+  }
+}
